@@ -1,2 +1,2 @@
-# snake-game-
+# snake-game
 snake game in python Tkinter
